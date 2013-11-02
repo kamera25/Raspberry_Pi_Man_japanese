@@ -7,7 +7,7 @@ CAS Raspberry Pi Education Manualの日本語版マニュアル
 
 ---
 ###参加の仕方
-次のどちらかの方法で、翻訳内容を送ってください。(基本査読なしで先にどんどん翻訳しましょう)
+次のどちらかの方法で、翻訳内容を送ってください。(基本査読なしで先にどんどん翻訳しましょう)  
   1.フォークしてデータをいじり、プルリク送る。  
   2.イシューで翻訳した内容を記入してください。    
 
@@ -20,6 +20,7 @@ CAS Raspberry Pi Education Manualの日本語版マニュアル
   です。  
   本家のライセンスを継承しなければならないので・・・
   
+---
 ###今のところまでのデータ
   [PDFデータ 2013/11/2まで](https://www.dropbox.com/s/v3vaszfvsq4xqm2/Raspberry_Pi_Education_Manual_japanese.pdf)
 
