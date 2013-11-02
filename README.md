@@ -21,7 +21,7 @@ CAS Raspberry Pi Education Manualの日本語版マニュアル
   本家のライセンスを継承しなければならないので・・・
   
 ###今のところまでのデータ
-  [PDF](https://www.dropbox.com/s/v3vaszfvsq4xqm2/Raspberry_Pi_Education_Manual_japanese.pdf)
+  [PDFデータ 2013/11/2まで](https://www.dropbox.com/s/v3vaszfvsq4xqm2/Raspberry_Pi_Education_Manual_japanese.pdf)
 
 ---
 参考リンク
