@@ -3,7 +3,7 @@ Raspberry_Pi_Man_japanese
 
 CAS Raspberry Pi Education Manualの日本語版マニュアル
 
-このマニュアルは、CAS Raspberry Pi Education Manualを日本語に翻訳するプロジェクトです。
+このプロジェクトは、CAS Raspberry Pi Education Manualを日本語に翻訳するのが目的です。
 
 ---
 ###参加の仕方
@@ -23,6 +23,12 @@ CAS Raspberry Pi Education Manualの日本語版マニュアル
 ---
 ###ダウンロード(今のところまでのデータ)
   [PDFデータ 2013/11/2まで](https://www.dropbox.com/s/v3vaszfvsq4xqm2/Raspberry_Pi_Education_Manual_japanese.pdf)
+
+---
+###ご質問とか
+  内容についてのご質問もお受けします(分からない所も少しありますが)。  
+  [私のTwitter](https://twitter.com/csc_kamera25) とか [ブログ](http://religion.indiesj.com/) に書いていただけると
+  嬉しいです。
 
 ---
 ###参考リンク
