@@ -22,7 +22,7 @@ CAS Raspberry Pi Education Manualの日本語版マニュアル
   
 ---
 ###ダウンロード(今のところまでのデータ)
-  [PDFデータ 2013/11/2まで](https://www.dropbox.com/s/v3vaszfvsq4xqm2/Raspberry_Pi_Education_Manual_japanese.pdf)
+  [PDFデータ 2013/11/2まで](https://www.dropbox.com/s/gz6k7p46q0i4qj1/Raspberry_Pi_Education_Manual_japanese.pdf)
 
 ---
 ###ご質問とか
